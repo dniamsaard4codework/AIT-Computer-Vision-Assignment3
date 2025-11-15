@@ -7,6 +7,7 @@ requires-python = ">=3.13"
 dependencies = [
     "kagglehub>=0.3.13",
     "matplotlib>=3.10.7",
+    "nbconvert>=7.16.6",
     "numpy>=2.3.4",
     "opencv-python>=4.11.0.86",
     "pandas>=2.3.3",
