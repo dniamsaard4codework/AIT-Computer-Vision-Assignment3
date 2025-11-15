@@ -207,4 +207,8 @@ marimo/_lsp/
 __marimo__/
 
 # Dataset
-datasets/
+datasets/task_2/
+data/
+
+# Models
+models/
